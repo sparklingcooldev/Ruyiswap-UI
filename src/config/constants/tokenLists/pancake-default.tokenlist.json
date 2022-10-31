@@ -1,0 +1,81 @@
+{
+  "name": "PancakeSwap Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": [
+    "pancake",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Soku",
+      "symbol": "Soku",
+      "address": "0xC7c135124AFEddfdC7868bEa9A7Df728D2B6CAC0",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "bShiba",
+      "symbol": "bShiba",
+      "address": "0x80364e820150C531DDC8c5FdAca94EA9C8097D1E",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Optimus",
+      "symbol": "OP",
+      "address": "0xc2F60163969c3f9f02CB120Ea8EDA5aD58bF96E7",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Panda dao",
+      "symbol": "PANDADAO",
+      "address": "0x2A0f97531e845335b8a7626E912B24501f3785C8",
+      "chainId": 43113,
+      "decimals": 9,
+      "logoURI": ""
+    },
+    {
+      "name": "Busd",
+      "symbol": "BUSD",
+      "address": "0x0c19E21C4f7036F195a98877d092327C6e69b9a4",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "BASED",
+      "symbol": "BASED",
+      "address": "0x64e5cbcFbC45A57513B4BB853d18338100D4f1c2",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Sample Token",
+      "symbol": "STOKEN",
+      "address": "0xCDb0f27b16fF8b3171821597097DA46671F83470",
+      "chainId": 4,
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "name": "Busd",
+      "symbol": "BUSD",
+      "address": "0xaFb59BFbF41D74367C011223907C096eDAD257e2",
+      "chainId": 338,
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
